@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "636857968518",
+    "firebase_url": "https://sist-ventas.firebaseio.com",
+    "project_id": "sist-ventas",
+    "storage_bucket": "sist-ventas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636857968518:android:965c50bc0777c47d",
+        "android_client_info": {
+          "package_name": "com.amuyu.melitos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636857968518-e8jiguh6k719ldd7gf4aldfipmn38edi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amuyu.melitos",
+            "certificate_hash": "2601072f21ee383acf5abf6cbea420fcd6a53202"
+          }
+        },
+        {
+          "client_id": "636857968518-dtn8rjnj259lc9s1e1gm85c42br9s3ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amuyu.melitos",
+            "certificate_hash": "18588c55bda34f4b842e8112cf7dbd0a07f4a45a"
+          }
+        },
+        {
+          "client_id": "636857968518-muvr69491m98flotfaor7sat88qb3t4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmA2AwWGdtpHxGuCI5J36Ac-d35VV6-dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636857968518-muvr69491m98flotfaor7sat88qb3t4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
